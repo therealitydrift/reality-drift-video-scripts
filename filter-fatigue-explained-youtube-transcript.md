@@ -5,30 +5,6 @@ description: "An introduction to Filter Fatigue: the cognitive exhaustion caused
 keywords: ["Filter Fatigue", "Reality Drift", "Optimization Trap", "Synthetic Realness", "attention", "cognitive load"]
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Filter Fatigue Explained",
-  "author": {
-    "@type": "Person",
-    "name": "A. Jacobs"
-  },
-  "datePublished": "2026",
-  "description": "An introduction to Filter Fatigue: the cognitive exhaustion caused by constant filtering of information in modern media environments.",
-  "keywords": [
-    "Filter Fatigue",
-    "Reality Drift",
-    "Optimization Trap",
-    "Synthetic Realness",
-    "attention economy",
-    "cognitive overload"
-  ]
-}
-</script---
-
----
-
 ## Filter Fatigue Explained
 
 Ever wonder why you feel more tired after scrolling than after working? Why sitting on the couch with your phone can leave you more drained than a full day at your job?
